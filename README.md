@@ -2,7 +2,7 @@
 Código do projeto de ML.
 
 print("--- INICIANDO SCRIPT ---")
-print("Por favor, cole este script inteiro em UMA ÚNICA CÉLULA e execute.")
+print
 
 try:
     import pandas as pd
